@@ -1,0 +1,30 @@
+# Binaries
+*.exe
+main
+xiuyanzhe
+
+# Environment
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Docker
+mysql-data/
+redis-data/
+
+# Temp
+backups/
+sql/
